@@ -1,9 +1,7 @@
-import Image from 'next/image'
-
-export default function Home() {
-  return (
-    <main>
-      <h1>Gowno</h1>
-    </main>
-  )
+export default function App(){
+    return (
+        <>
+        <h1>Gay nigga Twerking</h1>
+        </>
+    )
 }
